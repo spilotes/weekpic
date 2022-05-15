@@ -75,3 +75,17 @@ a:hover {
   text-decoration: 2px solid underline;
   color: #9488ef;
 }
+
+@media {
+  .logo {
+    left: 5%;
+  }
+
+  .h1 {
+    left: 9%rem;
+  }
+
+  .span {
+    left: 3rem;
+  }
+} ;
