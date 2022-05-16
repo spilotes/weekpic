@@ -78,14 +78,16 @@ a:hover {
 
 @media {
   .logo {
-    left: 7%;
+    width: 8.5rem;
+    height: 1.8rem;
+    left: 10%;
   }
 
   .h1 {
-    left: 11%rem;
+    left: 14%rem;
   }
 
   .span {
-    left: 7%;
+    left: 11%;
   }
 } ;
