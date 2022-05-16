@@ -85,12 +85,13 @@ a:hover {
   }
 
   .h1 {
-    left: 29%;
+    top: 1.1rem;
+    left: 2%;
   }
 
   .span {
     width: 100%;
-    bottom: 6rem;
-    left: 35%;
+    bottom: 5.5rem;
+    left: 50%;
   }
 } ;
