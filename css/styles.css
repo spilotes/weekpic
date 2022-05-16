@@ -80,14 +80,15 @@ a:hover {
   .logo {
     width: 8.5rem;
     height: 1.8rem;
-    left: 10%;
+    left: 12%;
   }
 
   .h1 {
-    left: 14%rem;
+    left: 19%rem;
   }
 
   .span {
-    left: 11%;
+    bottom: 4rem;
+    left: 20%;
   }
 } ;
